@@ -1,5 +1,5 @@
 ---
-title : Welcome to the garden
+title : Benvenuto in questo giardino digitale!
 notetype : feed
 date : 15-04-2021
 ---
