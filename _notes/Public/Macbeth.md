@@ -6,4 +6,4 @@ date : 19-01-2022
 
 
 
-![[IMG_2139.jpeg]]
+![Alt Text](/assets/img/1-how-to.png "Title Here")
