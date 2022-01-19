@@ -17,6 +17,19 @@ _Macbeth_ di Joel Coen invece recupera una storia celebre, mette in bocca ai suo
 > _da [Sentieri Selvaggi](https://www.sentieriselvaggi.it/macbeth-di-joel-coen/)_
 
 
+A questo punto, recuperiamo le altre riduzioni di Macbeth riportate da Wikipedia, soprattutto Welles e Kurosawa:
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1908) "Macbeth (film 1908)")**_ – film del 1908 di [James Stuart Blackton](https://it.wikipedia.org/wiki/James_Stuart_Blackton "James Stuart Blackton")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1916) "Macbeth (film 1916)")**_ – film del 1916 di [John Emerson](https://it.wikipedia.org/wiki/John_Emerson "John Emerson")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1948) "Macbeth (film 1948)")**_ – film del 1948 di [[Orson Welles]](https://it.wikipedia.org/wiki/Orson_Welles "Orson Welles")
+-   _**[Il trono di sangue](https://it.wikipedia.org/wiki/Il_trono_di_sangue "Il trono di sangue")**_ – film del 1957 di [[Akira Kurosawa]](https://it.wikipedia.org/wiki/Akira_Kurosawa "Akira Kurosawa")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1971) "Macbeth (film 1971)")**_ – film del 1971 di [Roman Polański](https://it.wikipedia.org/wiki/Roman_Pola%C5%84ski "Roman Polański")
+-   _**[Macbeth](https://it.wikipedia.org/w/index.php?title=Macbeth_(film_1971_Schroeter)&action=edit&redlink=1 "Macbeth (film 1971 Schroeter) (la pagina non esiste)")**_ – film televisivo del 1971 di [Werner Schroeter](https://it.wikipedia.org/wiki/Werner_Schroeter "Werner Schroeter")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1982) "Macbeth (film 1982)")**_ – film del 1982 di [Béla Tarr](https://it.wikipedia.org/wiki/B%C3%A9la_Tarr "Béla Tarr")
+-   _**[Macbeth - La tragedia dell'ambizione](https://it.wikipedia.org/wiki/Macbeth_-_La_tragedia_dell%27ambizione "Macbeth - La tragedia dell'ambizione")**_ – film del 2006 di [Geoffrey Wright](https://it.wikipedia.org/wiki/Geoffrey_Wright "Geoffrey Wright")
+-   _**[Macbeth](https://it.wikipedia.org/w/index.php?title=Macbeth_(film_2009)&action=edit&redlink=1 "Macbeth (film 2009) (la pagina non esiste)")**_ – film del 2009 di [Nicholas Paton](https://it.wikipedia.org/w/index.php?title=Nicholas_Paton&action=edit&redlink=1 "Nicholas Paton (la pagina non esiste)")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_2010) "Macbeth (film 2010)")**_ – film del 2010 di [Rupert Goold](https://it.wikipedia.org/wiki/Rupert_Goold "Rupert Goold")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_2015) "Macbeth (film 2015)")**_ – film del 2015 di [Justin Kurzel](https://it.wikipedia.org/wiki/Justin_Kurzel "Justin Kurzel")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_2021) "Macbeth (film 2021)")**_ (_The Tragedy of Macbeth_) – film del 2021 di [Joel Coen](https://it.wikipedia.org/wiki/Joel_ed_Ethan_Coen "Joel ed Ethan Coen")
 
 
 ---
