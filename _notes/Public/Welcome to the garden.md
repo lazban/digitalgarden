@@ -1,6 +1,6 @@
 ---
 title : Benvenuto in questo giardino digitale!
-notetype : feed
+notetype : unfeed
 date : 15-04-2021
 ---
 
