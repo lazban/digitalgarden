@@ -20,8 +20,8 @@ _Macbeth_ di Joel Coen invece recupera una storia celebre, mette in bocca ai suo
 A questo punto, recuperiamo le altre riduzioni di Macbeth riportate da Wikipedia, soprattutto Welles e Kurosawa:
 -   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1908) "Macbeth (film 1908)")**_ – film del 1908 di [James Stuart Blackton](https://it.wikipedia.org/wiki/James_Stuart_Blackton "James Stuart Blackton")
 -   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1916) "Macbeth (film 1916)")**_ – film del 1916 di [John Emerson](https://it.wikipedia.org/wiki/John_Emerson "John Emerson")
--   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1948) "Macbeth (film 1948)")**_ – film del 1948 di [[Orson Welles]](https://it.wikipedia.org/wiki/Orson_Welles "Orson Welles")
--   _**[Il trono di sangue](https://it.wikipedia.org/wiki/Il_trono_di_sangue "Il trono di sangue")**_ – film del 1957 di [[Akira Kurosawa]](https://it.wikipedia.org/wiki/Akira_Kurosawa "Akira Kurosawa")
+-   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1948) "Macbeth (film 1948)")**_ – film del 1948 di [Orson Welles](https://it.wikipedia.org/wiki/Orson_Welles "Orson Welles") [[Macbeth - Welles 1948]]
+-   _**[Il trono di sangue](https://it.wikipedia.org/wiki/Il_trono_di_sangue "Il trono di sangue")**_ – film del 1957 di [Akira Kurosawa](https://it.wikipedia.org/wiki/Akira_Kurosawa "Akira Kurosawa") [[Trono di sangue - Kurosawa 1957]]
 -   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1971) "Macbeth (film 1971)")**_ – film del 1971 di [Roman Polański](https://it.wikipedia.org/wiki/Roman_Pola%C5%84ski "Roman Polański")
 -   _**[Macbeth](https://it.wikipedia.org/w/index.php?title=Macbeth_(film_1971_Schroeter)&action=edit&redlink=1 "Macbeth (film 1971 Schroeter) (la pagina non esiste)")**_ – film televisivo del 1971 di [Werner Schroeter](https://it.wikipedia.org/wiki/Werner_Schroeter "Werner Schroeter")
 -   _**[Macbeth](https://it.wikipedia.org/wiki/Macbeth_(film_1982) "Macbeth (film 1982)")**_ – film del 1982 di [Béla Tarr](https://it.wikipedia.org/wiki/B%C3%A9la_Tarr "Béla Tarr")
