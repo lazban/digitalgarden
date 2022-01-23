@@ -11,9 +11,7 @@ Editore: Dedalo
 Pubblicazione: 1985
 Formato: copertina morbida
 Pagine: 104
-[[CINEMA]]
-
-buono per [[città e cinema - livorno 2020]]
+[[cinema]]
 
 ---
 

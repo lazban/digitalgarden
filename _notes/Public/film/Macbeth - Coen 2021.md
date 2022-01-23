@@ -6,7 +6,7 @@ date : 19-01-2022
 
 grandissima fotografia e grandi interpretazioni in questa riduzione di _Macbeth_ per lo schermo di Joel Coen, alla sua prima regia senza il fratello Ethan.
 
-Mi sono chiesto spesso il [[senso del cinema]], il significato che dovrebbe avere il cinema contemporaneo, dove sembra che tutte le storie siano state raccontate e dove non c'è spazio per sperimentazione di linguaggio ma solo per sequel, prequel e spin-off.
+Mi sono chiesto spesso il #sensocinema, il significato che dovrebbe avere il cinema contemporaneo, dove sembra che tutte le storie siano state raccontate e dove non c'è spazio per sperimentazione di linguaggio ma solo per sequel, prequel e spin-off.
 
 _Macbeth_ di Joel Coen invece recupera una storia celebre, mette in bocca ai suoi personaggi le stesse parole di Shakespeare (tagliando diverse linee di battute ma restando fedele al testo). Però le accompagna con tutto il potenziale espressivo del Cinema: dalle scenografie alla fotografia, dalle ombre alla profondità di campo, dal sonoro (meraviglioso!)
 
