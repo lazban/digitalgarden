@@ -4,7 +4,6 @@ notetype : feed
 date : 26-01-2022
 ---
 
-## Taiwan
 
 in molti leggono tra le righe di _[[I ragazzi di Fengkuei]]_ e lo collegano alla storia della giovane Taiwan.
 
