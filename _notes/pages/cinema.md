@@ -7,6 +7,9 @@ date : 20-01-2022
 ---
 ## film
 
+#### anni '80
+- [[I ragazzi di Fengkuei]], di [[Hou Hsiao-hsien]], Taiwan, 1983
+
 #### 2021
 - [[Macbeth]], di Joel Coen, Usa 2021
 
