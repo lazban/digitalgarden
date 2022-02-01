@@ -15,6 +15,8 @@ Ha vinto il leone d'oro a Venezia nel 1989 con _Città dolente_.
 
 E' considerato uno dei maestri della _new wave_ taiwanese insieme a Edward Yang e Tsai Ming-liang.
 
+![Hou Hsiao-hsien](/assets/img/houhsiaohsien.jpeg "Hou Hsiao-hsien")
+
 ## Filmografia 
 fonte: [Wikipedia](https://it.wikipedia.org/wiki/Hou_Hsiao-hsien) aggiornata a Gennaio 2022.
 

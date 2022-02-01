@@ -10,6 +10,7 @@ Appunti di cose notevoli che ho trovato nel film
 ## il regista
 [[Hou Hsiao-hsien]]
 
+![una scena del film I ragazzi di Fengkuei](/assets/img/fengkuei.jpeg "una scena del film I ragazzi di Fengkuei")
 
 ## la storia
 
