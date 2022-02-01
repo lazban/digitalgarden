@@ -1,4 +1,11 @@
+---
+title: Hou Hsiao-hsien
+notetype : feed
+date : 26-01-2022
+---
+
 # Hou Hsiao-hsien
+
 Nato nella Cina continentale nel 1947. Si trasferisce quasi subito a Taiwan.
 
 Gioca spesso tra passato e presente, tra memoria individuale e memoria collettiva.

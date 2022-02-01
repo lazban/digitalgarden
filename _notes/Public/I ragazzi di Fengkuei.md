@@ -36,7 +36,7 @@ non c'è voce fuori campo, non ci sono spiegoni, non ci sono scene di raccordo. 
 
 Esempi:
 - a un certo punto, li vediamo lavorare e capiamo quello che c'è da capire (1.13')
-- 
+
 #### citazioni
 - Vitelloni nella scena del ballo davanti alla "cugina". 21'
 
