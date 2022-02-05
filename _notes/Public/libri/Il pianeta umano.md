@@ -5,7 +5,6 @@ date : 26-01-2022
 tag : antropocene
 ---
 
-# IL PIANETA UMANO
 Titolo Originale: ?
 Autore: Susie Linfield
 Traduzione: Maria Baiocchi e Anna Tagliavini
@@ -14,7 +13,6 @@ Pubblicazione: 2013
 Pagine: 335
 [[antropocene]]
 
-Posizione: **working**
 - - - 
 
 

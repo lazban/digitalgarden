@@ -14,7 +14,6 @@ Formato: copertina rigida
 Pagine: 343
 [[antropocene]]
 
-Posizione: **working**
 - - - 
 
 # temi
