@@ -2,6 +2,7 @@
 title: La terra inabitabile
 notetype : feed
 date : 26-01-2022
+tag : antropocene
 ---
 
 Titolo Originale: The inhabitable earth (2019)

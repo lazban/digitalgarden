@@ -2,6 +2,7 @@
 title: Il pianeta umano
 notetype : feed
 date : 26-01-2022
+tag : antropocene
 ---
 
 # IL PIANETA UMANO
