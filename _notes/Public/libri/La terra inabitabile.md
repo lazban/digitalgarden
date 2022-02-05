@@ -12,7 +12,7 @@ Editore: Mondadori
 Pubblicazione: 2020
 Formato: copertina rigida
 Pagine: 343
-#antropocene
+[[antropocene]]
 
 Posizione: **working**
 - - - 
