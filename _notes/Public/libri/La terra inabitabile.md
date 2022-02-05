@@ -1,3 +1,9 @@
+---
+title: La terra inabitabile
+notetype : feed
+date : 26-01-2022
+---
+
 Titolo Originale: The inhabitable earth (2019)
 Autore: David Wallace-Wells
 Traduzione: Giovanni Zucca
@@ -5,7 +11,7 @@ Editore: Mondadori
 Pubblicazione: 2020
 Formato: copertina rigida
 Pagine: 343
-[[antropocene dept]]
+#antropocene
 
 Posizione: **working**
 - - - 
