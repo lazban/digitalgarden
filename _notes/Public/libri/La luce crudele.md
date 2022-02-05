@@ -4,14 +4,15 @@ notetype : feed
 date : 26-01-2022
 ---
 
-# La luce crudele - fotografia e violenza politica
+## La luce crudele - fotografia e violenza politica
 Titolo Originale: ?
 Autore: Susie Linfield
 Traduzione: Maria Baiocchi e Anna Tagliavini
 Editore: Contrasto
 Pubblicazione: 2013
 Pagine: 335
-[[fotografia dept]]
+Dept: [[fotografia]], [[antropocene]]
+
 
 Posizione: **working**
 - - - 

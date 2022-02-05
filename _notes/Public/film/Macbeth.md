@@ -43,3 +43,5 @@ con Denzel Washington, Frances McDormand
 distribuito in sala in USA a Natale del 2021 e disponibile in streaming su Apple Tv+
 
 visto domenica 16.1.22 in streaming
+
+Dept: [[cinema]]

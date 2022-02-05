@@ -84,3 +84,4 @@ Ah-Ching è distrutto dalla partenza della ragazza della quale era innamorato. H
 **I ragazzi di Feng Kuei** (_Fēngguì lái de rén_, _The Boys from Fengkuei_).
 Taiwan, 1983, 101'
 di Hou Hsiao-hsien, scritto da Chu Tien-wen
+dept: [[cinema]]
