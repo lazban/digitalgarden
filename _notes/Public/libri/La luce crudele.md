@@ -1,3 +1,9 @@
+---
+title: La luce crudele
+notetype : feed
+date : 26-01-2022
+---
+
 # La luce crudele - fotografia e violenza politica
 Titolo Originale: ?
 Autore: Susie Linfield
