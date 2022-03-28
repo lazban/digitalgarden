@@ -5,7 +5,6 @@ date : 27-03-2022
 ---
 
 ![l'esterno di Santa Maria della Salute](/assets/img/madonna-della-salute1.jpeg)
-![una scena del film I ragazzi di Fengkuei](/assets/img/fengkuei.jpeg "una scena del film I ragazzi di Fengkuei")
 
 Eretta a fine 1600 come segno di ringraziamento per la fine della peste. Di forma esagonale, con una serie di nicchie per ogni lato. 
 
