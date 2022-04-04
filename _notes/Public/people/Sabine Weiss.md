@@ -24,7 +24,7 @@ Sabine Weiss non ha mai provato soggezione a svolgere un lavoro così "maschile"
 ### emozioni a contrasto
 
 La foto che più mi ha colpito fra quelle proposte nella retrospettiva alla Casa dei Tre Oci di Venezia, è questa:
-![Porte de Saint-Cloud, Parigi, 1950](/assets/foto/weiss1.jpg)
+![Porte de Saint-Cloud, Parigi, 1950](/assets/foto/weiss1.jpg "Porte de Saint-Cloud, Parigi, 1950")
 
 Weiss ha fotografato molti gitani o poveraggi per strada. Questo bambino (o bambina?) ha il vestito logoro, il viso sporco con i capelli arruffati, il moccio al naso. Guarda la camera incusiosito, con uno sguardo dolorante, o di speranza. Tutt'altro effetto la bambina alle spalle, fuori fuoco e tagliata, anche lei con gli occhi rivolti alla fotocamera. La bambina opera a contrasto, esprimendo dinamismo (mentre il soggetto principale è molto statico) e, soprattutto, sorridendo. Due reazioni diverse di fronte al medesimo stupore dell'incontro con la tecnologia, probabilmente (siamo nel 1950) non alla loro portata.
 
@@ -33,7 +33,7 @@ La foto mi colpisce perché ho pensato che anche isolando i due soggetti (il bam
 ### emergere dal buio
 
 Weiss non è soltanto ritratto di povera gente ma anche ricerca di una espressività con la luce. Molte foto di uomini al buio con una unica fonte luminosa.
-![weiss2.jpg](/assets/foto/weiss2.jpg)
+![L'uomo che corre (Hugh), Parigi, 1953](/assets/foto/weiss2.jpg "L'uomo che corre (Hugh), Parigi, 1953")
 
 L'uomo in questione è il marito (Hugh Weiss) che si è prestato a fare da modello in movimento.
 
@@ -42,6 +42,6 @@ L'uomo in questione è il marito (Hugh Weiss) che si è prestato a fare da model
 Sempre dal punto di vista stilistico, interessante l'angolo di ripresa di alcune foto. Spesso si dice che per rendere più efficace l'esposizione, ci si deve abbassare all'altezza del soggetto. In questo e in altri scatti, Weiss rimane invece in piedi (a volte anche più in alto).
 L'effetto che mi pare ottenga, è quello di evidenziare ancora di più lo status di bambino.
 
-![weiss3.jpg](/assets/foto/weiss3.jpg)
+![Malta, 1955](/assets/foto/weiss3.jpg "Malta, 1955")
 
-![weiss4.jpg](/assets/foto/weiss4.jpg)
+![Matrimonio gitano per Vogue, Tarascon, Francia, 1953](/assets/foto/weiss4.jpg "Matrimonio gitano per Vogue, Tarascon, Francia, 1953")
