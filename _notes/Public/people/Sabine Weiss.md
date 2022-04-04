@@ -4,7 +4,7 @@ notetype : feed
 date : 27-03-2022
 ---
 
-# Bio
+## Bio
 Simon Weiss (nata Weber nel 1924) è una fotografa della Svizzera francofona, che si trasferì a Parigi a 20 anni, dove rimarrà per tutta la vita (è morta nel 2021).
 
 Inizia ad appassionarsi alla fotografia da giovannissima, fa l'apprendista in uno studio e riceve la qualifica di fotografa nel 1945. Poi, spostatasi a Parigi, collabora con altri fotografi e agenzie (la Rapho Agency dove l'unica altra donna era Janine Niepce).
