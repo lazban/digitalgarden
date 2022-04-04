@@ -24,7 +24,7 @@ Sabine Weiss non ha mai provato soggezione a svolgere un lavoro così "maschile"
 ## emozioni a contrasto
 
 La foto che più mi ha colpito fra quelle proposte nella retrospettiva alla Casa dei Tre Oci di Venezia, è questa:
-![[weiss1.jpg]]
+![weiss1.jpg](../foto/weiss.jpg)
 
 Weiss ha fotografato molti gitani o poveraggi per strada. Questo bambino (o bambina?) ha il vestito logoro, il viso sporco con i capelli arruffati, il moccio al naso. Guarda la camera incusiosito, con uno sguardo dolorante, o di speranza. Tutt'altro effetto la bambina alle spalle, fuori fuoco e tagliata, anche lei con gli occhi rivolti alla fotocamera. La bambina opera a contrasto, esprimendo dinamismo (mentre il soggetto principale è molto statico) e, soprattutto, sorridendo. Due reazioni diverse di fronte al medesimo stupore dell'incontro con la tecnologia, probabilmente (siamo nel 1950) non alla loro portata.
 
