@@ -19,29 +19,29 @@ Weiss fu anche invitata a prendere parte a **[[The Family of Man]]**, una import
 Sabine Weiss non ha mai provato soggezione a svolgere un lavoro così "maschile" soprattutto in quegli anni. Nel video intervista proiettato alla mostra, c'è un passaggio dove risponde ad una domanda in proposito. Il problema, dice, erano i pesi. Si era costretti a portarsi dietro chili e chili di attrezzatura.
 
 
-# Foto e note
+## Foto e note
 
-## emozioni a contrasto
+### emozioni a contrasto
 
 La foto che più mi ha colpito fra quelle proposte nella retrospettiva alla Casa dei Tre Oci di Venezia, è questa:
-![Porte de Saint-Cloud, Parigi, 1950](/_notes/foto/weiss1.jpg)
+![Porte de Saint-Cloud, Parigi, 1950](/assets/foto/weiss1.jpg)
 
 Weiss ha fotografato molti gitani o poveraggi per strada. Questo bambino (o bambina?) ha il vestito logoro, il viso sporco con i capelli arruffati, il moccio al naso. Guarda la camera incusiosito, con uno sguardo dolorante, o di speranza. Tutt'altro effetto la bambina alle spalle, fuori fuoco e tagliata, anche lei con gli occhi rivolti alla fotocamera. La bambina opera a contrasto, esprimendo dinamismo (mentre il soggetto principale è molto statico) e, soprattutto, sorridendo. Due reazioni diverse di fronte al medesimo stupore dell'incontro con la tecnologia, probabilmente (siamo nel 1950) non alla loro portata.
 
 La foto mi colpisce perché ho pensato che anche isolando i due soggetti (il bambino in primo piano e la bambina alle spalle). Insiemeperò, questa coppia dà una forza ancora più grande allo scatto e racconta una storia ancora più profonda su quel gruppo di ragazzini ritratti alla periferia di Parigi.
 
-## emergere dal buio
+### emergere dal buio
 
 Weiss non è soltanto ritratto di povera gente ma anche ricerca di una espressività con la luce. Molte foto di uomini al buio con una unica fonte luminosa.
-![[weiss2.jpg]]
+![weiss2.jpg](/assets/foto/weiss2.jpg)
 
 L'uomo in questione è il marito (Hugh Weiss) che si è prestato a fare da modello in movimento.
 
-## il punto di vista
+### il punto di vista
 
 Sempre dal punto di vista stilistico, interessante l'angolo di ripresa di alcune foto. Spesso si dice che per rendere più efficace l'esposizione, ci si deve abbassare all'altezza del soggetto. In questo e in altri scatti, Weiss rimane invece in piedi (a volte anche più in alto).
 L'effetto che mi pare ottenga, è quello di evidenziare ancora di più lo status di bambino.
 
-![[weiss3.jpg]]
+![weiss3.jpg](/assets/foto/weiss3.jpg)
 
-![[weiss4.jpg]]
+![weiss4.jpg](/assets/foto/weiss4.jpg)
