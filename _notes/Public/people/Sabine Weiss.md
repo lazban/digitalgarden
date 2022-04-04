@@ -45,3 +45,11 @@ L'effetto che mi pare ottenga, è quello di evidenziare ancora di più lo status
 ![Malta, 1955](/assets/foto/weiss3.jpg "Malta, 1955")
 
 ![Matrimonio gitano per Vogue, Tarascon, Francia, 1953](/assets/foto/weiss4.jpg "Matrimonio gitano per Vogue, Tarascon, Francia, 1953")
+
+### scatti sull'esposizione
+
+![Simone Weiss Tre Oci Venezia 2022](/assets/foto/weiss5.jpg "Simone Weiss Tre Oci Venezia 2022")
+
+![Simone Weiss Tre Oci Venezia 2022](/assets/foto/weiss6.jpg "Simone Weiss Tre Oci Venezia 2022")
+
+![Simone Weiss Tre Oci Venezia 2022](/assets/foto/weiss7.jpg "Simone Weiss Tre Oci Venezia 2022")
