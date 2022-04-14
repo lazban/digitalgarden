@@ -15,6 +15,9 @@ date : 20-01-2022
 <script src="/assets/js/Search.js"></script>
 {%- endif -%}
 
+---
+## persone
+- [[Letizia Battaglia]], fotografa sicialiana (1935-2022)
 
 ---
 ## libri
