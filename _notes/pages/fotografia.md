@@ -15,6 +15,9 @@ date : 20-01-2022
 <script src="/assets/js/Search.js"></script>
 {%- endif -%}
 
+---
+## persone
+- [[Letizia Battaglia]], fotografa sicialiana (1935-2022)
 
 ---
 ## libri
@@ -22,9 +25,6 @@ date : 20-01-2022
 - [[La luce crudele]], sul fotogiornalismo e la sua crudezza
 
 ---
-## libri fotografici
+## mostre
 
-- ajkfl
-
----
-## film / video
+- [[Sabine Weiss]], Tre Oci, Venezia, marzo 2022
