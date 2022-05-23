@@ -1,9 +1,7 @@
 ---
----
----
-title: Cinema
+title: Diario
 notetype : unfeed
-date : 20-01-2022
+date : 23-05-2022
 ---
 
 {%- if site.preferences.search.enabled -%}
@@ -19,18 +17,5 @@ date : 20-01-2022
 
 
 ---
-## film
-
-#### anni '50
-- [[Public/trash/La città si difende]], di Pietro Germi, Italia, 1951
-
-#### anni '80
-- [[I ragazzi di Fengkuei]], di [[Hou Hsiao-hsien]], Taiwan, 1983
-
-#### 2021
-- [[Macbeth]], di Joel Coen, Usa 2021
-
----
-## libri
-
-* [[La città e il cinema]], sul rapporto tra la città e l'arte cinematografica. Molti spunti oltre Manhattan
+## 2022
+- [[2022, Maggio 19-23. TORINO]]
