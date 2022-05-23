@@ -1,5 +1,5 @@
 ---
-title: L''adolescenza da Spiderman a Batman
+title: L'adolescenza da Spiderman a Batman
 notetype : feed
 date : 23-05-2022
 ---
