@@ -4,7 +4,9 @@ notetype : feed
 date : 23-05-2022
 ---
 
-_se ne è parlato con Vito Mancuso e Matteo Maria Zuppi al [[2022, Maggio 19-23. Salone del Libro di Torino]]_
+#prova 
+
+_se ne è parlato con Vito Mancuso e Matteo Maria Zuppi al Salone del Libro 2022
 
 ![l1975](/assets/img/battaglia01 mafia 1975.jpg)
 

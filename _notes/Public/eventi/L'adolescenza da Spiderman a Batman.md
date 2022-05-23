@@ -4,7 +4,7 @@ notetype : feed
 date : 23-05-2022
 ---
 
-_incontro avvenuto al [[2022, Maggio 19-23. Salone del Libro di Torino]]_ dove Antonella Anichini, Carmine Di Giandomenico, Davide Monopoli e Antonello Raciti insieme a Francesco (un ragazzo della comunità gestita dalla cooperativa Altra Mentre) parlano dell'uso terapeutico del fumetto (manga) e del perché il manga sia così diffuso tra i giovanissimi.
+_incontro avvenuto al Salone del Libro 2022, dove Antonella Anichini, Carmine Di Giandomenico, Davide Monopoli e Antonello Raciti insieme a Francesco (un ragazzo della comunità gestita dalla cooperativa Altra Mentre) parlano dell'uso terapeutico del fumetto (manga) e del perché il manga sia così diffuso tra i giovanissimi.
 
 ![l1975](/assets/img/battaglia01 mafia 1975.jpg)
 

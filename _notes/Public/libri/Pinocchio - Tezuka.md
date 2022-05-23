@@ -4,7 +4,7 @@ notetype : feed
 date : 23-05-2022
 ---
 
-_presentato al [[2022, Maggio 19-23. Salone del Libro di Torino]] da Massimiliano De Giovanni (Kappalab)_
+_presentato al Salone del Libro 2022 da Massimiliano De Giovanni (Kappalab)_
 
 ![l1975](/assets/img/battaglia01 mafia 1975.jpg)
 
