@@ -4,11 +4,9 @@ notetype : feed
 date : 23-05-2022
 ---
 
-#prova 
-
 _se ne è parlato con Vito Mancuso e Matteo Maria Zuppi al Salone del Libro 2022
 
-![l1975](/assets/img/battaglia01 mafia 1975.jpg)
+![salone libro 2022](/assets/foto/salto_mancuso.jpg)
 
 ## appunti
 Senso della verità (vita comune?). Dire bugia va bene. Tenere il velo. Non alimentare discorsi alle spalle…

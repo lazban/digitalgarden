@@ -4,8 +4,6 @@ notetype : feed
 date : 08-04-2022
 ---
 
-#prova
-
 dal sito del [World Press Photo](https://www.worldpressphoto.org/amber-bracken)
 
 [Amber Bracken](http://amberbracken.com/), a lifelong Albertan, is a freelance photojournalist based in Edmonton, Canada, who photographs primarily across western North America to better connect to the global issues in her own backyard.   

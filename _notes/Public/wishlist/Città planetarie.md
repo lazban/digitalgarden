@@ -12,7 +12,7 @@ Con
 Luciano Canfora e Stefano Feltri
 I caratteri dell’Occidente - la tecnica e il capitale, un’idea comune di cittadinanza-eguaglianza, democrazia e diritti - stanno dando vita alla prima civiltà planetaria della nostra storia. Siamo di fronte a un nuovo inizio, esposto alla catastrofe, ma anche ricco di straordinarie potenzialità.
 
-![l1975](/assets/img/battaglia01 mafia 1975.jpg)
+![](/assets/foto/salto_feltri.jpg)
 
 ## appunti
 

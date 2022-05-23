@@ -6,7 +6,7 @@ date : 23-05-2022
 
 _presentato al Salone del Libro 2022 da Massimiliano De Giovanni (Kappalab)_
 
-![l1975](/assets/img/battaglia01 mafia 1975.jpg)
+![salone del libro](/assets/foto/salto_pinocchio.jpg)
 
 Heavily inspired by Walt Disney’s animated classic, Osamu Tezuka’s take on the tale of a wooden puppet who becomes a real boy Pinocchio (1952) was originally published as a stand-alone book by Tokodo on June 5, 1952.
 
