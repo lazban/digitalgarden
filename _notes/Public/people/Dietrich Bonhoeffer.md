@@ -21,4 +21,5 @@ Dubitare è bello. Amare l adversus serve a capire il versus. Ma pro veritate. N
 
 ## contributi esterni
 
-![l1975](/assets/img/battaglia01 mafia 1975.jpg)
+[[stampa22_bonhoeffer.jpg]]
+
