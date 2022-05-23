@@ -6,9 +6,9 @@ date : 27-03-2022
 
 ![l'esterno di Santa Maria della Salute](/assets/img/madonna-della-salute1.jpeg)
 
-Eretta a fine 1600 come segno di ringraziamento per la fine della peste. Di forma esagonale, con una serie di nicchie per ogni lato. 
+Eretta a fine 1600 come segno di ringraziamento per la fine della peste. Di forma esagonale, con una serie di nicchie per ogni lato.
 
-![l'interno della Basilica](/assets/img/santa maria della salute.jpg)
+![l'interno della Basilica](/assets/foto/santa maria della salute.jpg)
 
 Una di queste è un po' più grande delle altre e ha una sua cupola (da qui, l'aspetto esterno particolare) ed ospita un altare con al centro una icona (la Madonna della Salute)
 
