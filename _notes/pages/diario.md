@@ -18,4 +18,5 @@ date : 23-05-2022
 
 ---
 ## 2022
-- [[2022, Maggio 19-23. TORINO]]
+- [[2022, Giugno 5. ROMA]] - Maxxi (Salgado, Berengo Gardin)
+- [[2022, Maggio 19-23. TORINO]] - Salone del Libro - Allianz Stadium - Camera (collezione del MoMa)
