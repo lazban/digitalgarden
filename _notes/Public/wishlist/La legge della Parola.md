@@ -1,5 +1,5 @@
 ---
-title: La legge delle parole
+title: La legge della Parola
 notetype : feed
 date : 23-05-2022
 ---
