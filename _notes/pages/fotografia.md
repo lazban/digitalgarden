@@ -17,14 +17,20 @@ date : 20-01-2022
 
 ---
 ## persone
+- [[Matthew Abbott]]
 - [[Letizia Battaglia]], fotografa sicialiana (1935-2022)
+- [[Gianni Berengo Gardin]]
+- [[Amber Bracken]]
+- [[Luisa Dörr - Le gonne della libertà]]
 
 ---
 ## libri
-
 - [[La luce crudele]], sul fotogiornalismo e la sua crudezza
 
 ---
 ## mostre
-
+- [[L'occhio come mestiere]], MAXXI, Roma, giugno 2022
+- [[Amazônia]], MAXXI, Roma, giugno 2022
+- [[Tokyo Revisited]], MAXII, Roma, giugno 2022
 - [[Sabine Weiss]], Tre Oci, Venezia, marzo 2022
+

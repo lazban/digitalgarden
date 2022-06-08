@@ -22,7 +22,7 @@ date : 20-01-2022
 ## film
 
 #### anni '50
-- [[Public/trash/La città si difende]], di Pietro Germi, Italia, 1951
+- [[Public/film/La città si difende]], di Pietro Germi, Italia, 1951
 
 #### anni '80
 - [[I ragazzi di Fengkuei]], di [[Hou Hsiao-hsien]], Taiwan, 1983
