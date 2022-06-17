@@ -1,7 +1,7 @@
 ---
 title: 2022, Giugno 5. ROMA
 notetype : unfeed
-date : 05.06-2022
+date : 05-06-2022
 ---
 
 ## cose fatte
