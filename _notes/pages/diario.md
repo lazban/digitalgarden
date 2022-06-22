@@ -18,6 +18,7 @@ date : 23-05-2022
 
 ---
 ## 2022
+- [[2022, Giugno 24-30. BOLOGNA]] - Festival del Cinema Ritrovato
 - [[2022, Giugno 15. MILANO]] - Henri Cartier-Bresson in Cina
 - [[2022, Giugno 11-12. VOLTERRA]] - Museo Etrusco, Pinacoteca, Teatro Romano
 - [[2022, Giugno 5. ROMA]] - Maxxi (Salgado, Berengo Gardin)
