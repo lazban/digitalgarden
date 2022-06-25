@@ -1,5 +1,5 @@
 ---
-title: arabesque
+title: Arabesque
 notetype : feed
 date : 25-06-2022
 ---
