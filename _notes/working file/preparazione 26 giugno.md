@@ -1,7 +1,7 @@
 ---
 title : preparazione 26 giugno
 notetype : feed
-date : 08-06-2021
+date : 08-06-2022
 ---
 
 THE BEAST WITH FIVE FINGERS
