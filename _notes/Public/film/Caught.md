@@ -4,7 +4,7 @@ notetype : feed
 date : 25-06-2022
 ---
 
-![Caught](/assets/foto/2022/bologna_caught.jpg)
+![Caught](/assets/foto/2022/bologna_caught.png)
 
 ### appunti
 interessante il tema: la bella donna che sposa l'uomo per i soldi (ma non è vero) e poi cerca di emanciparsi.
