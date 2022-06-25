@@ -4,7 +4,7 @@ notetype : feed
 date : 25-06-2022
 ---
 
-![Sofia Loren in Arabesque](/assets/foto/2022/bologna_arabesque.jpg)
+![Sofia Loren in Arabesque](/assets/foto/2022/bologna_arabesque.png)
 
 ### appunti
 davvero divertente.
