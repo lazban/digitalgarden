@@ -25,7 +25,7 @@ date : 20-01-2022
 
 ---
 ## libri
-- [[La luce crudele]], sul fotogiornalismo e la sua crudezza
+- [[Public/libri/La luce crudele]], sul fotogiornalismo e la sua crudezza
 
 ---
 ## mostre
