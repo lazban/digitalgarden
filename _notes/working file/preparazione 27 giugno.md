@@ -4,96 +4,11 @@ notetype : feed
 date : 08-06-2022
 ---
 
-THREE STRANGERS
-SCHEDA FILM
-Una bella donna (Geraldine Fitzgerald), un uomo d’affari apparentemente rispettabile (Sydney Greenstreet) e un criminale da due soldi (Lorre) si incrociano a Londra mentre il Capodanno cinese è alle porte: tre estranei nella notte, grandi quantità di tabacco e di alcolici. Sotto luci tremolanti e al cospetto della dea cinese Kwan Yin – che in questa particolare notte esaudirà i desideri di tre estranei – la donna propone di giocare in società alle corse di cavalli. “E prima che il film si concluda e la gara inizi, i fili dei loro destini si intrecciano e si dipanano in modo sorprendente. Falsità e violenze complicano la loro sorte, ma il Fato – mistero imperscrutabile – assesta l’ultimo colpo. Il tema del film è questo. Mai così irragionevole da essere del tutto incredibile ma ovviamente costruito come una finzione, costituisce uno spettacolo seducente, e raggiunge qualche punta di fascino in alcune delle sue scene cruciali. Naturalmente ci poniamo seriamente la domanda se a intervenire, più che la mano del Fato, siano le abili mani degli sceneggiatori, John Huston e Howard Koch, che tirano le fila. Propendiamo francamente per la seconda ipotesi” (Bosley Crowther, “The New York Times”, 23 febbraio 1946).
-Questo noir grigiastro è una delle rare occasioni per vedere Lorre e Greenstreet in ruoli da protagonisti; furono fianco a fianco in nove film in tutto (compresi alcuni classici come Il mistero del falco o Casablanca), dove eccelsero soprattutto come caratteristi. Lorre offre qui una delle sue interpretazioni hollywoodiane più ricche di sfumature, ma l’eleganza del film è anche un omaggio al talento del regista, Jean Negulesco, il quale dichiarò che Lorre era uno dei suoi attori preferiti in assoluto. Dopo l’altrettanto elegante La maschera di Dimitrios e il mediocre I cospiratori (un plagio di Casablanca), Three Strangers sarebbe stata la loro terza e ultima collaborazione.
-
- Frederik Lang
-
-CAST AND CREDITS
-Scen.: John Huston, Howard Koch. F.: Arthur Edeson. M.: George Amy. Scgf.: Ted Smith. Mus.: Adolph Deutsch. Int.: Sydney Greenstreet (Jerome K. Arbutny), Geraldine Fitzgerald (Crystal Shakleford), Peter Lorre (John West), Joan Lorring (Icy Crane), Robert Shayne (Fallon), Marjorie Riordan (Janet Elliott), Arthur Shields (pubblico ministero), Rosalind Ivan (Lady Rhea Belladon). Prod.: Wolfgang Reinhardt per Warner Bros. Pictures – 35mm. D.: 93’. Bn
-
-IN BREVE
-Titolo Italiano
-[L'idolo cinese]
-Regia: Jean Negulesco
-Anno: 1946
-Paese: USA
-Durata: 93'
-Versione del film
-Versione inglese
-
-Audio
-Sonoro
-Edizione
-2022
-Sezione
-PETER LORRE, STRANIERO IN TERRA STRANIERA
 
 ---
 
-PECCATO CHE SIA UNA CANAGLIA
-SCHEDA FILM
-Alessandro Blasetti, grande regista la cui eclettica carriera copre mezzo secolo di cinema, offre a Loren il suo primo grande ruolo in un lungometraggio, subito dopo l’episodio dell’Oro di Napoli. Ed è ancora una volta un ruolo brillante, di donna volitiva e seducente capace di tener testa ai maschi. Ispirato a un racconto di Alberto Moravia, il film è una scorribanda sentimentale tipica del cosiddetto ‘neorealismo rosa’, in un’Italia popolare già avviata verso nuovi consumi. Sophia è una donna che con dei complici tenta di rubare l’auto di un ingenuo tassista.
-Lui la porta al commissariato, sedotto dal suo fascino, se la lascia sfuggire, ma poi si mette alla ricerca della ‘banda’. “La bellezza non è davvero una condanna, è un dono del cielo, di cui occorre fare uso sagace; la protagonista di Peccato che sia una canaglia, erede popolaresca delle avventuriere d’alto bordo di un tempo, sa benissimo amministrarsi e destreggiarsi fra gli uomini – anche se, intendiamoci, nessuno dei suoi trucchi imbrogli canagliate giunge mai a compromettere sul serio la purità del suo cuore” (Vittorio Spinazzola, Cinema e pubblico, Bompiani, Milano 1974). È anche il primo incontro di una coppia destinata a una grande fortuna nei decenni, quella con Marcello Mastroianni (che dal canto suo è qui alle prime armi come attore brillante). Ma non va dimenticato, come in molti titoli dell’epoca, uno straordinario Vittorio De Sica nei panni del padre della ragazza, ladro d’altri tempi. “Tra noi la scintilla si accese subito […]. Interpretammo i nostri ruoli lasciandoci guidare dall’istinto, e con un brio che per me era una scoperta. […] De Sica dava il tono; Marcello e io ci mettemmo immediatamente al diapason imprimendo alla nostra recitazione uno slancio pieno di verve e di sottigliezza che caratterizzò i molti film che in seguito avremmo girato insieme” (Sophia Loren).
 
-Emiliano Morreale
 
-CAST AND CREDITS
-Sog.: dal racconto Il fanatico di Alberto Moravia. Scen.: Suso Cecchi D’Amico, Alessandro Continenza, Ennio Flaiano. F.: Aldo Giordani. M.: Mario Serandrei. Scgf.: Mario Chiari. Mus.: Alessandro Cicognini. Int.: Marcello Mastroianni (Paolo), Sophia Loren (Lina), Vittorio De Sica (il padre di Lina), Umberto Melnati (Michele), Margherita Bagni (Elsa), Michael Simone (Totò), Giorgio Sanna (Peppino), Mario Scaccia (Carletto), Wanda Benedetti (Valeria). Prod.: Documento Film. DCP. D.: 95’. Bn.
-
-IN BREVE
-Titolo Internazionale
-Too Bad She’s Bad
-Regia: Alessandro Blasetti
-Anno: 1954
-Paese: Italia
-Durata: 95'
-Versione del film
-Versione italiana con sottotitoli inglesi
-
-Audio
-Sonoro
-Edizione
-2022
-Sezione
-FOREVER SOPHIA
-
----
-
-KEN
-SCHEDA FILM
-Misumi lavorò quasi esclusivamente con materiale storico. Ken è uno dei suoi rari gendai-geki (film d’ambientazione contemporanea), atipico per questo e anche per l’austera fotografia in Scope in bianco e nero che lo distingue dai film coevi del regista (al direttore della fotografia Chikashi Makiura si deve anche lo splendore cromatico di Kenki, tra le altre collaborazioni con Misumi). Più consueta è la presenza della star Raizo Ichikawa, l’attore prediletto di Misumi, che interpreta il capitano di una squadra universitaria di kendo invischiato in una pericolosa rivalità con un collega.
-Il racconto da cui il film è tratto, pubblicato nel 1963, era del celebre Yukio Mishima (1925-70), che com’è noto praticava il kendo, propugnava il codice etico dei samurai e si tolse la vita praticando il seppuku dopo un tentativo fallito di colpo di Stato. In Misumi l’attrazione di Mishima per i limiti estremi della condotta virile si condensa nei primi piani intrisi di sudore e nelle eleganti coreografie delle scene di combattimento.
-Il recensore di “Kinema Junpo” colse l’anacronismo dei valori di Mishima espressi in Ken, suggerendo che, in un dopoguerra caratterizzato da una libertà sfrenata, la squadra di kendo era forse l’ultimo baluardo del rigore e della forza spirituale: rappresentando “maniere che si discostano dalla società contemporanea”, la tematica del kendo offrì a Misumi l’opportunità di creare “un jidai-geki ambientato nel gendai” (cioè nel presente). La recensione è stranamente negativa, poiché giudica il film una copia inadeguata della sua fonte letteraria. Eppure per Hiroaki Yoshida la tensione del film sta proprio nel contrasto tra gli atteggiamenti dei due autori: Mishima celebra la “bella morte” mentre Misumi si concentra sulla lotta per la vita.
-Sotto la direzione del suo omonimo Kon Ichikawa, Raizo Ichikawa era apparso in un altro adattamento di Mishima interpretando il novizio disturbato che incendia un tempio di Kyoto in Enjo (Conflagrazione, 1958).
-
-Alexander Jacoby e Johan Nordström
-
-CAST AND CREDITS
-Sog.: dal racconto omonimo di Yukio Mishima. Scen.: Kazuo Funahashi. F.: Chikashi Makiura. M.: Kanji Suganuma. Scgf.: Akira Naito. Mus.: Sei Ikeno. Int.: Raizo Ichikawa (Jiro Kokubun), Yukiko Fuji (Eri Itami), Yusuke Kawazu (Kagawa), Akio Hasegawa (Mibu), Akitake Kono (Kiuchi), Yuka Konno (Shigeko Fujishiro), Junko Kozakura (Sanae Mibu), Yoshio Inaba (Seiichiro Kokubun), Rieko Sumi (Hiroko Kokubun). Prod.: Hirokaki Fujii, Sadao Zaizen per Daiei – DCP. D.: 95’. Bn.
-
-IN BREVE
-Titolo Internazionale
-The Sword
-Titolo Italiano
-[La spada]
-Regia: Kenji Misumi
-Anno: 1964
-Paese: Giappone
-Durata: 95'
-Versione del film
-Versione giapponese con sottotitoli inglesi
-
-Audio
-Sonoro
-Edizione
-2022
-Sezione
-KENJI MISUMI: UN AUTORE INCONSAPEVOLE
-
----
 
 LA RÈGLE DU JEU
 SCHEDA FILM
