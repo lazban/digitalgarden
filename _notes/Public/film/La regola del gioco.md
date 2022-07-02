@@ -1,5 +1,5 @@
 ---
-title: La regola del gioco
+title: La Regola del gioco
 notetype : feed
 date : 02-07-2022
 ---
