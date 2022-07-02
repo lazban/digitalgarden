@@ -33,4 +33,8 @@ date : 20-01-2022
 ---
 ## libri
 
-* [[La città e il cinema]], sul rapporto tra la città e l'arte cinematografica. Molti spunti oltre Manhattan
+- [[La città e il cinema]], sul rapporto tra la città e l'arte cinematografica. Molti spunti oltre Manhattan
+
+---
+## Festival
+- Festival del Cinema Ritrovato [[2022, Giugno 24-30. BOLOGNA]]
