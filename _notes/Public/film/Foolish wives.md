@@ -7,7 +7,7 @@ date : 02-07-2022
 ![foolish wives](/assets/foto/2022/bologna_foolish.png)
 
 ### appunti
-importante film muto presentato con un accompagnamento dal vivo un po' straniante (del gruppo finlandese CW). 
+importante film muto presentato con un accompagnamento dal vivo un po' straniante (del gruppo finlandese CW). -> [Qui la registrazione audio](https://1drv.ms/u/s!AuP69qmQkR8wh6wWBf58D6Sr5ER52g?e=44cFcB)
 la versione originale era di 6 ore, poi tagliato molto (e infatti ci sono molte didascalie a intercalare).
 
 Raccontata una storia dal restauratore. Tutte le pellicole del film sono andate distrutte. Il cinema è fragile.
