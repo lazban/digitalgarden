@@ -14,7 +14,7 @@ date : 03-07-2022
 - [[celeste leeuwenburg]]
 - [[colas and delort]]
 - [[daniel jack lyons]]
-- [[debmalya roy choudhri]]
+- [[debmalya roy choudhuri]]
 - [[estefania penafiel loaiza]]
 - [[frida orupabo]]
 - [[gal and hiroshima]]
