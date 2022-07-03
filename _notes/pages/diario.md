@@ -17,6 +17,10 @@ date : 23-05-2022
 
 
 ---
+## in preparazione
+- [[arles appunti]]
+
+
 ## 2022
 - [[2022, Giugno 24-30. BOLOGNA]] - Festival del Cinema Ritrovato
 - [[2022, Giugno 15. MILANO]] - Henri Cartier-Bresson in Cina

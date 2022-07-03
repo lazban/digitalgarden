@@ -1,0 +1,43 @@
+---
+title: arles appunti
+notetype : feed
+date : 03-07-2022
+---
+
+- [[a feminist avangarde]]
+- [[akeem smith]]
+- [[babette mangolte]]
+- [[bettina grossman]]
+- [[bruno serralongue]]
+- [[but still it turns]]
+- [[cartographies du corps]]
+- [[celeste leeuwenburg]]
+- [[colas and delort]]
+- [[daniel jack lyons]]
+- [[debmalya roy choudhri]]
+- [[estefania penafiel loaiza]]
+- [[frida orupabo]]
+- [[gal and hiroshima]]
+- [[hanaei and montazami]]
+- [[if a tree falls in a forest]]
+- [[imagined documents]]
+- [[julien lombardi]]
+- [[lea habourdin]]
+- [[lee miller]]
+- [[lukas hoffmann]]
+- [[maya ines touam]]
+- [[mika sperling]]
+- [[mitch epstein]]
+- [[noemie goudal]]
+- [[olga grotova]]
+- [[pierfrancesco celada]]
+- [[prix pictet retrospective]] - non c'è!!
+- [[rahim fortune]]
+- [[ritual inhabitual]]
+- [[romain urhausen]]
+- [[sandra brewster]]
+- [[sathish kumar]]
+- [[seif kousmate]]
+- [[songs of the sky]]
+- [[to heal a world]]
+- [[wang yimo]]
