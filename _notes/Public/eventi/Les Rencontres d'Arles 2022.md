@@ -10,7 +10,7 @@ date : 08-07-2022
 
 #### Mostre viste
 
-- *** [[lee miller]]
+- *** [[Lee Miller]]
 
 #### Altri appunti
  
