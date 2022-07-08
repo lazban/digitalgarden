@@ -20,3 +20,19 @@ date : 08-07-2022
 
 - [[cose da vedere]]
 - [[cose da leggere]]
+
+---
+
+## tematiche
+
+### podcast
+- [[antropocene]]
+- [[the human race]]
+
+### fotografia
+- [[fotografia umanista]]
+
+### generali
+- [[fumetto]]
+
+
