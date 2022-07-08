@@ -4,9 +4,11 @@ notetype : feed
 date : 08-07-2022
 ---
 
-## Cose fatte
+Solita foto dal Teatro Antico con la proiezione dell'edizione 2022 dei Rencontres d'Arles
 
-## Les Rencontres d'Arles 2022
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2223.jpg)
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2224.jpg)
 
 #### Mostre viste
 
@@ -16,6 +18,8 @@ date : 08-07-2022
 - [[Bettina Grossman]]
 - [[To heal a world]]
 - [[Noemie Goudal]]
+- *** [[Klavdij Sluban]]
+- *** [[Mitch Epstein]]
 
 
 #### Altri appunti
@@ -42,7 +46,7 @@ date : 08-07-2022
 - [[lukas hoffmann]]
 - [[maya ines touam]]
 - [[mika sperling]]
-- [[mitch epstein]]
+- [[Mitch Epstein]]
 - [[Noemie Goudal]]
 - [[olga grotova]]
 - [[pierfrancesco celada]]

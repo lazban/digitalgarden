@@ -1,10 +1,31 @@
 ---
-title: mitch epstein
-notetype : unfeed
-date : 03-07-22
+title: Mitch Epstein
+notetype : feed
+date : 08-07-22
 ---
 
-# MITCH EPSTEIN
+![la mostra di Mitch Epstein all'Abbaye de Montmajour](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2234.jpg)
+
+Mitch Epstein è marito di Mira Nair, regista indiana della quale devo recuperare film visti in gioventù.
+
+Questo è un reportage sul'India molto esteso che, a parte alcuni scatti, non riesce a passarmi molto.
+
+Ho trovato rilevanti questi.
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2233.jpg)
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2235.jpg)
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2236.jpg)
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2237.jpg)
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2231.jpg)
+
+Però molti scatti mi sono sembrati banali e puramente descrittivi. Forse sono passato troppo velocemente.
+
+
+## dal catalogo ufficiale
 
 ### IN INDIA, 1978-1989
 

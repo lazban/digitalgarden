@@ -4,10 +4,10 @@ notetype : feed
 date : 08-07-22
 ---
 
-{{< embedYT "https://vimeo.com/703340676" >}}
-
 <iframe src="https://player.vimeo.com/video/703340676?h=73c4be0ea7&color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/703340676">NO&Eacute;MIE GOUDAL - PHOENIX</a> from <a href="https://vimeo.com/rencontresarles">Les Rencontres d&#039;Arles</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+![la mostra di Noémie Goudal a Arles](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2221.jpg)
 
 # NOÉMIE GOUDAL
 
