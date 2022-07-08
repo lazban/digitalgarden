@@ -15,7 +15,7 @@ date : 08-07-2022
 - [[Babette Mangolte]]
 - [[Bettina Grossman]]
 - [[To heal a world]]
-- [[Noemi Goudal]]
+- [[Noemie Goudal]]
 
 
 #### Altri appunti
@@ -43,7 +43,7 @@ date : 08-07-2022
 - [[maya ines touam]]
 - [[mika sperling]]
 - [[mitch epstein]]
-- [[Noemi Goudal]]
+- [[Noemie Goudal]]
 - [[olga grotova]]
 - [[pierfrancesco celada]]
 - [[prix pictet retrospective]] - non c'è!!
