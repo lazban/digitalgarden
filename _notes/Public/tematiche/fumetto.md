@@ -1,6 +1,6 @@
 ---
 title: fumetto
-notetype : feed
+notetype : unfeed
 date : 23-05-2022
 ---
 
