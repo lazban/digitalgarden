@@ -18,7 +18,7 @@ date : 23-05-2022
 
 ---
 ## in preparazione
-- [[arles appunti]]
+- [[2022, Luglio 4-7. ARLES]]
 
 
 ## 2022

@@ -4,7 +4,7 @@ notetype : unfeed
 date : 08-07-2022
 ---
 
-## Cose da vedere
+
 
 #### world cinema
 - **Memorie del sottosviluppo**, Tomas Gutierrez Alea, 1968 (Cina post rivoluzionaria tra documento e finzione). In World Cinema Project n.1 con booklet

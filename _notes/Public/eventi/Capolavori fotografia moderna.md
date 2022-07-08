@@ -1,5 +1,5 @@
 ---
-title: 2022, Maggio 22. Camera Torino
+title: Capolavori fotografia moderna
 notetype : unfeed
 date : 23-05-2022
 ---
