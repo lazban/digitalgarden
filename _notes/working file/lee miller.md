@@ -15,7 +15,7 @@ La mostra si concentra sulle attività della Miller dai tempi del suo studio a N
 ##### Ritratti
 sono interessanti. Questa è Colette, già anziana, mentre lavora.
 
-[link](![Colette di Lee Miller](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2202.jpg))
+![Colette di Lee Miller](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2202.jpg)
 
 ##### Riviste
 Molte riviste in mostra con le foto di Lee Miller. Questa è _Vogue_ (Maggio, 1944).
