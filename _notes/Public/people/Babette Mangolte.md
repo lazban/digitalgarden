@@ -1,21 +1,27 @@
 ---
-title: babette mangolte
-notetype : unfeed
-date : 03-07-22
+title: Babette Mangolte
+notetype : feed
+date : 08-07-22
 ---
 
-# BABETTE MANGOLTE
+![la mostra di Babette Mangolte ad Arles](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2216.jpg)
+
+Fotografie che catturano il movimento nello spazio. Però a me non lascia niente. Comunque si incrocia grande parte della scena alternativa newyorkese degli anni 70.
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2214.jpg)
+
+Interessante, sempre della Mangolte, alcune sperimentazioni sui palazzi di New York
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2215.jpg)
+
+o sui giochi di specchi.
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2217.jpg)
+
+
+## dal catalogo
 
 ### CAPTURING MOVEMENTS IN SPACE
-
--   ![Église Sainte-Anne](https://www.rencontres-arles.com/files/place_number_thumbnail_623.png)[ÉGLISE SAINTE-ANNE](https://www.rencontres-arles.com/en/expositions/map?p[]=15&)
-    
-
-4 JULY - 25 SEPTEMBER 2022
-
-10.00 AM - 07.30 PM
-
-[TICKETING](https://billetterie.rencontres-arles.com/prestation/Billetterie.html?process=7&switch=1&locale=fr)
 
 In the 1970s, experimental filmmaker/photographer Babette Mangolte moved to New York, where she documented the city’s performing arts scene. During this period, she developed a photographic and cinematic language based on the subjectivity of the camera, the viewer’s key role and the human body’s relationship to space. In the 1980s, she actively and rigorously pursued this research and participated in defining and building a performing arts archive to set it into a specific time and context. Her work spans over 50 years, marked especially by Yvonne Rainer, Trisha Brown, Richard Foreman, Lucinda Childs, Simone Forti, Robert Morris, Joan Jonas and Robert Whitman. This selection of images and films pays tribute to one of the leading figures of our time.  
   

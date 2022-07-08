@@ -1,21 +1,16 @@
 ---
-title: bettina grossman
-notetype : unfeed
-date : 03-07-22
+title: Bettina Grossman
+notetype : feed
+date : 08-07-22
 ---
 
-# BETTINA GROSSMAN
+![la presentazione della mostra di Bettina Grossman a Arles](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2218.jpg)
+
+per me roba troppo concettuale.
+
+## dal catalogo ufficiale
 
 ### BETTINA. A POEM OF PERPETUAL RENEWAL
-
--   ![Salle Henri-Comte](https://www.rencontres-arles.com/files/place_number_thumbnail_629.png)[SALLE HENRI-COMTE](https://www.rencontres-arles.com/en/expositions/map?p[]=5&)
-    
-
-4 JULY - 28 AUGUST 2022
-
-10.00 AM - 07.30 PM
-
-[TICKETING](https://billetterie.rencontres-arles.com/prestation/Billetterie.html?process=7&switch=1&locale=fr)
 
 _A poem of perpetual renewal_ is the first solo exhibition of the American artist Bettina Grossman, who went by the name Bettina. Bettina spent the early years of her career in Europe, returning to the USA in the 1960s. Shortly after, a traumatic fire destroyed much of her work. She moved into the legendary Chelsea Hotel in 1970 and, recovering from the loss, worked prolifically. After years of producing in isolation, Bettina was featured in two documentary films, which led to her meeting with Yto Barrada. A strong relationship ensued, within a tradition of artists championing – and being nourished by – the work of other artists, resulting in several projects. The exhibition at salle Henri-Comte is a unique survey of Bettina’s life in New York City. Whether in photography, film, painting, sculpture or textile design, her works are serial, modular, and rigorous – each part of her application of a larger system, self-referential, with repetitive geometric forms that have a transcendental, almost shamanic dimension.
 

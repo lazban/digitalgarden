@@ -11,13 +11,19 @@ date : 08-07-2022
 #### Mostre viste
 
 - *** [[Lee Miller]]
+- [[Romain Urhausen]] 
+- [[Babette Mangolte]]
+- [[Bettina Grossman]]
+- [[To heal a world]]
+- 
+
 
 #### Altri appunti
  
 - [[a feminist avangarde]]
 - [[akeem smith]]
-- [[babette mangolte]]
-- [[bettina grossman]]
+
+- [[Bettina Grossman]]
 - [[bruno serralongue]]
 - [[but still it turns]]
 - [[cartographies du corps]]
@@ -33,21 +39,20 @@ date : 08-07-2022
 - [[imagined documents]]
 - [[julien lombardi]]
 - [[lea habourdin]]
-
 - [[lukas hoffmann]]
 - [[maya ines touam]]
 - [[mika sperling]]
 - [[mitch epstein]]
-- [[noemie goudal]]
+- [[Noemi Goudal]]
 - [[olga grotova]]
 - [[pierfrancesco celada]]
 - [[prix pictet retrospective]] - non c'è!!
 - [[rahim fortune]]
 - [[ritual inhabitual]]
-- [[romain urhausen]]
+
 - [[sandra brewster]]
 - [[sathish kumar]]
 - [[seif kousmate]]
 - [[songs of the sky]]
-- [[to heal a world]]
+- [[To heal a world]]
 - [[wang yimo]]

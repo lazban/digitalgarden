@@ -1,8 +1,10 @@
 ---
-title: noemie goudal
-notetype : unfeed
-date : 03-07-22
+title: Noemie Goudal
+notetype : feed
+date : 08-07-22
 ---
+
+{{< embedYT "https://vimeo.com/703340676" >}}
 
 # NOÉMIE GOUDAL
 
@@ -10,14 +12,6 @@ date : 03-07-22
 
 -   ![Église des Trinitaires](https://www.rencontres-arles.com/files/place_number_thumbnail_627.png)[ÉGLISE DES TRINITAIRES](https://www.rencontres-arles.com/en/expositions/map?p[]=6&)
     
-
-4 JULY - 28 AUGUST 2022
-
-10.00 AM - 07.30 PM
-
-ACCESSIBLE
-
-[TICKETING](https://billetterie.rencontres-arles.com/prestation/Billetterie.html?process=7&switch=1&locale=fr)
 
 Anchored in ideas around deep time (which can be loosely defined as a geological history of the planet), paleoclimatology (the study of past climates) and relational geographies, Noémie Goudal’s complex and performative series of films and constructed photographs reflect on the inter-connectedness of human and non-human life. Knitting together lush vegetation, rocky coastlines, snow-capped mountains and swamplands, her latest body of work explores spatiotemporal vastness and post-anthropocentric modalities of belonging. Goudal’s poetic film _Inhale Exhale_, 2021, considers how the Earth is in a state of perpetual movement by depicting an unspecified equatorial landscape that was once part of the arctic environment in a constant state of transition. Meanwhile, her series _Phoenix_, from which the exhibition takes its name, deploys optical illusion and altered realities to question photography’s indexicality as a marker of truth. Ultimately, Goudal’s theatrical work marks a philosophical shift in our approach to ecology and an awareness of how the Earth’s temporal rhythms are critical for planetary survival.
 

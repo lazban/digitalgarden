@@ -1,10 +1,18 @@
 ---
-title: to heal a world
-notetype : unfeed
-date : 03-07-22
+title: To heal a world
+notetype : feed
+date : 08-07-22
 ---
 
-# TO HEAL A WORLD
+raccolta di foto che hanno a che fare con la croce rossa o la mezza luna rossa.
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2219.jpg)
+
+una buona idea di utilizzo di foto con taglio geografico
+
+![](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2220.jpg)
+
+## dal catalogo ufficiale
 
 ### 160 YEARS OF PHOTOGRAPHY FROM THE COLLECTIONS OF THE RED CROSS AND RED CRESCENT
 

@@ -1,14 +1,12 @@
 ---
-title: Lee Miller
+title : Lee Miller
 notetype : feed
-date : 07-07-22
+date : 08-07-22
 ---
 
 mostra ad Arles 2022, all'Espace Van Gogh da titolo PROFESSIONAL PHOTOGRAPHER (1932–1945).
 
 Donna con molte esperienze. Inizialmente è una modella, poi passa dall'altra parte dell'obiettivo per fare foto di moda e ritratti. infine chiede di andare a seguito delle truppe americane in guerra (parigi, londra...).
-
-Les Rencontres ha anche presentato in anteprima un documentario di Arte che andrà in onda, in Francia, nell'estate del 2022. Da recuperare.
 
 La mostra si concentra sulle attività della Miller dai tempi del suo studio a New York (1932-1934), all'attività di fotografa di moda e pubblicità (1932-1945) e come corrispondente di guerra, con i reportage da Dachau e Buchenwald che saranno pubblicati da _Vogue_ (1942-1945).
 
@@ -61,6 +59,11 @@ Lee Miller è riuscita anche a entrare in casa di Hitler e farsi il bagno nella 
 
 ![War photographers](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/arles/arles2212.jpg)
 
+#### il documentario di Arte
+Les Rencontres ha anche presentato in anteprima un documentario di Arte che andrà in onda, in Francia, nell'estate del 2022. Da recuperare.
+Si tratta di _Lee Miller - Mannequin et photographe de guerre_ di Teresa Griffiths, 59 min., 2020. Prodotto, tra gli altri, da BBC, ZDF, ARTE.
+Il documentario è stato presentato in francese senza sottotitoli e il nome della fotografa è francesizzato in "millèèèèr". Non è solo questione di cadenza francese del nome inglese ma una pronuncia volutamente e palesemente sbagliata.
+Comunque molto belle le immagini e la storia narrata.
 
 #### note dal sito ufficiale
 The show focuses on one of the most intense and productive periods in the life of American photographer Lee Miller (1907–1977). Between 1932 and 1945, she was a portraitist, head of her own studio in New York (1932– 1934), a fashion and advertising photographer for perfume and cosmetic brands (1932–1945) and a war photographer (1942–1945) whose images of Dachau and Buchenwald are especially well known. Miller effortlessly moved between milieus and was concerned with the exchange value of her work. The exhibition explores her vibrant career and fleshes out the portrait of a woman often remembered only for her collaboration with American artist Man Ray and her close ties with the Surrealists in the 1920s.
