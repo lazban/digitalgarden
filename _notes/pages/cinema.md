@@ -1,6 +1,4 @@
 ---
----
----
 title: Cinema
 notetype : unfeed
 date : 20-01-2022
