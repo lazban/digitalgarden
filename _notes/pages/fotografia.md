@@ -29,6 +29,9 @@ date : 20-01-2022
 #### D
 - [[Luisa Dörr - Le gonne della libertà]]
 
+#### M
+- [[Lee Miller]], modella e fotografa anni '30-'50
+
 
 ---
 ## libri

@@ -28,6 +28,7 @@ date : 08-07-2022
 ### podcast
 - [[antropocene]]
 - [[the human race]]
+- [[fotografia femminile]]
 
 ### fotografia
 - [[fotografia umanista]]
