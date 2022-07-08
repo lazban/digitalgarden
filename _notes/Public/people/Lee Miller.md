@@ -1,7 +1,7 @@
 ---
 title: Lee Miller
 notetype : feed
-date : 08-07-22
+date : 07-07-22
 ---
 
 mostra ad Arles 2022, all'Espace Van Gogh da titolo PROFESSIONAL PHOTOGRAPHER (1932–1945).
