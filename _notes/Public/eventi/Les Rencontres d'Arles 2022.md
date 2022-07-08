@@ -15,7 +15,7 @@ date : 08-07-2022
 - [[Babette Mangolte]]
 - [[Bettina Grossman]]
 - [[To heal a world]]
-- 
+- [[Noemi Goudal]]
 
 
 #### Altri appunti
