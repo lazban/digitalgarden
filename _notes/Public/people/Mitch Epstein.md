@@ -29,17 +29,11 @@ Però molti scatti mi sono sembrati banali e puramente descrittivi. Forse sono p
 
 ### IN INDIA, 1978-1989
 
--   ![Abbaye de Montmajour](https://www.rencontres-arles.com/files/place_number_thumbnail_637.png)[ABBAYE DE MONTMAJOUR](https://www.rencontres-arles.com/en/expositions/map?p[]=40&)
-    
+Abbaye de Montmajour
 
 4 JULY - 25 SEPTEMBER 2022
 
 10.00 AM - 06.30 PM
-
-ONLINE BOOKING HIGHLY RECOMMANDED.  
-LAST ADMISSION: 5.15PM
-
-[TICKETING](https://billetterie.rencontres-arles.com/prestation/Billetterie.html?process=7)
 
 Between 1978 and 1989, Mitch Epstein made eight trips to India and shot thousands of photographs. The result is an extensive body of work that shows Epstein’s unusual dual vantage in an extraordinarily complicated culture: Through his Indian family life and work, he was both an insider and outsider. These photographs, many of which are exhibited here for the first time, show a wide swath of subcultures which Epstein was able to enter, showing a deep and extended experience of India, where separate worlds converged. The Abbaye de Montmajour installation features remastered prints from this body of work and is presented alongside two of the films Epstein collaborated on in India, with his then Indian wife, director Mira Nair: _India Cabaret_ (1985) and _Salaam Bombay!_ (1988). These works recall a time that feels both distant and immediate, complicated with politically fraught codes of caste, class, and religion, but simpler without the intrusion of digital technology.  
   
@@ -52,14 +46,6 @@ PUBLICATION: _IN INDIA_, STEIDL, 2021.
   
 AN EXTENSION OF THE EXHIBITION _IN INDIA_, 1978-1989 CAN BE SEEN AT THE AVIGNON TGV STATION. WITH SUPPORT FROM SNCF GARES & CONNEXIONS.
 
-# PARTAGER
-
--   [Facebook](http://www.addthis.com/bookmark.php "Partager sur Facebook")
--   [Twitter](http://www.addthis.com/bookmark.php "Partager sur Twitter")
-
-## Edition 2014
-
-# MITCH EPSTEIN
 
 Born 1952 in Holyoke, United States.  
 Lives and works in New York, United States.

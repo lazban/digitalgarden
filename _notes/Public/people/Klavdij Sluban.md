@@ -24,8 +24,6 @@ Per me notevole.
 
 
 
-
-
 ## dal catalogo ufficiale
 
 ### SNEG
@@ -33,7 +31,6 @@ Per me notevole.
 Snow—_sneg_ in his mother tongue, Slovenian—runs through all of Klavdij Sluban’s work like a recurring character, a traveling companion with whom the photographer carries out a tireless dialogue during his walks. Mr. Sluban’s present, living, organic portrait is an ode to snow, a mirror of someone who grew up with it. “The photographer misses the snow of his childhood that fell on his patch of ground”, writes Erri de Lucca about the link that connects these two _beings_. “Snow became a white hare. It didn’t cover the ground, but gnawed away at it. Its silence became oppressive.” This tribute brings together nearly twenty-five years of images nourished by what the word arouses in the imagination as the  
 countries are traveled across: Slovenia, Japan, Russia, Estonia, Sweden, China, Latvia, Poland, Finland, Mongolia and Lithuania.
 
-# KLAVDIJ SLUBAN
 
 Born 1963 in Paris, France.  
 Lives and works in Paris, France.

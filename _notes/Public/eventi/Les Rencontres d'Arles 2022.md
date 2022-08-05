@@ -12,22 +12,26 @@ Solita foto dal Teatro Antico con la proiezione dell'edizione 2022 dei Rencontre
 
 #### Mostre viste
 
-- *** [[Lee Miller]]
-- [[Romain Urhausen]] 
-- [[Babette Mangolte]]
-- [[Bettina Grossman]]
-- [[To heal a world]]
-- [[Noemie Goudal]]
-- *** [[Klavdij Sluban]]
 - *** [[Mitch Epstein]]
+
+- [[Bettina Grossman]]
+- [[Noemie Goudal]]
+
+- *** [[Lee Miller]]
+- [[Babette Mangolte]]
+
+- [[To heal a world]]
+
+- *** [[Klavdij Sluban]]
+
+- [[Romain Urhausen]] 
+
 
 
 #### Altri appunti
  
 - [[a feminist avangarde]]
 - [[akeem smith]]
-
-- [[Bettina Grossman]]
 - [[bruno serralongue]]
 - [[but still it turns]]
 - [[cartographies du corps]]
@@ -46,11 +50,8 @@ Solita foto dal Teatro Antico con la proiezione dell'edizione 2022 dei Rencontre
 - [[lukas hoffmann]]
 - [[maya ines touam]]
 - [[mika sperling]]
-- [[Mitch Epstein]]
-- [[Noemie Goudal]]
 - [[olga grotova]]
 - [[pierfrancesco celada]]
-- [[prix pictet retrospective]] - non c'è!!
 - [[rahim fortune]]
 - [[ritual inhabitual]]
 
@@ -58,5 +59,4 @@ Solita foto dal Teatro Antico con la proiezione dell'edizione 2022 dei Rencontre
 - [[sathish kumar]]
 - [[seif kousmate]]
 - [[songs of the sky]]
-- [[To heal a world]]
 - [[wang yimo]]
