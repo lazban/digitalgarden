@@ -29,7 +29,14 @@ date : 20-01-2022
 #### D
 - [[Luisa Dörr - Le gonne della libertà]]
 
+#### E
+- [[Mitch Epstein]]
+
+#### K
+- [[Klavdij Sluban]]
+
 #### M
+- [[Babette Mangolte]]
 - [[Lee Miller]], modella e fotografa anni '30-'50
 
 
