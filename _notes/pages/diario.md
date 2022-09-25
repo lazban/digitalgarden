@@ -19,6 +19,7 @@ date : 23-05-2022
 ---
 ## in preparazione
 - 2022. Agosto 20-27. IRLANDA
+- [[2022, Settembre 24-25. CORTONA]] - Cortona On The Move
 
 ## 2022
 - 2022, Agosto 4. LUCCA - Anniversario uccisione di Don Aldo Mei
