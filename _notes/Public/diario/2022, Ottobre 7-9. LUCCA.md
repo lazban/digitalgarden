@@ -46,7 +46,8 @@ Solito, grande, intervento di Adrian. Tra risate e commozione, la rassegna delle
 
 ## Tommaso Parrinello: **"Quello che i satelliti ci raccontano della terra e del suo futuro"**. 9 ottobre 2022, ore 17.00. Complesso San Francesco, cappella Guinigi
 i satelliti dell'ESA guardano la terra e ci dicono molte cose. 
-  
+
+---
 
 # Incontri registrati da vedere
 ## Vito Mancuso, Gustavo Zagrebelsky: **"La terra è un prestito da restituire ai nostri figli"** con Simonetta Fiori. 7 ottobre 2022 ore 19.00. Chiesa di San Francesco. 
@@ -67,7 +68,8 @@ i satelliti dell'ESA guardano la terra e ci dicono molte cose.
 ## Melania Mazzucco: **"En plain air: la bellezza della natura nelle opere d'arte"**. 9 ottobre 2022, ore 17.30. Chiesa di San Francesco.
 [la registrazione dell'evento](http://gofile.me/6V2w6/7hxT9QvkB)
 
-  
+---
+
 
 # Altri incontri
 ## Paolo Verzone: **"Arctic zero. Vivere ai confini del mondo"** con Enrico Stefanelli. 8 ottobre 2022, ore 15.00 - San Micheletto, Sala dell'affresco. Da recuperare in qualche modo.
