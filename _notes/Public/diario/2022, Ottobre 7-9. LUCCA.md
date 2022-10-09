@@ -8,7 +8,7 @@ date : 09-10-2022
 - Paolo Cognetti, Stefano Mancuso: **"Alberi maestri"**. 7 ottobre 2022, ore 18.00. Chiesa di San Francesco.
   Cognetti è interessante per come si pone e per che le cose che dice. Vive da qualche parte sopra i 2000 mt e poi migra in città nei mesi più freddi. Pieno di contenuti Mancuso come al solito. I due dialogano quasi alla pari sull'intelligenza delle piante.
   [la registrazione dell'evento](http://gofile.me/6V2w6/A4mi1ERJW)
-  ![la chiesa di San Francesco splendidamente allestita](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/lucca/IMG_4204.jpg)
+  ![la chiesa di San Francesco splendidamente allestita](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/lucca/IMG_4204.jpeg)
   
 - Maria Pace Ottieri, Lara Ricci: **"Un'altra vita è possibile"** con Emanuela Rosa-Clot. 8 ottobre 2022, ore 16.00. Orto botanico.
   Il racconto dell'opera di Pia Pera, scrittrice lucchese che raccontò della comunità di Longomai ma anche molti testi sulla botanica. Da recuperare. 
@@ -33,8 +33,8 @@ date : 09-10-2022
   > "Il mondo non morirà per la mancanza di meraviglie, ma per la mancanza di meraviglia". Questa citazione è generalmente attribuita allo scrittore e giornalista britannico Gilbert Keith Chesterton, ed è perfetta per descrivere ciò che sta accadendo in questo momento storico: la meraviglia, il fascino, lo stupore che dovremmo provare per le straordinarie forme di vita che ci circondano si sono affievoliti, tanto che la nostra specie svolge un ruolo devastante nell'intaccare le basi stesse della vita sulla Terra. Il tutto fingendo di ignorare che la crescita illimitata e indefinita è impossibile in un mondo dai chiari limiti bio-geofisici. Noi siamo natura constata che soprattutto noi abitanti dei paesi più ricchi del pianeta ci siamo dimenticati della nostra stretta correlazione con la natura. Per ricordarcelo, Gianfranco Bologna ci riporta là dove tutto è cominciato, al Big Bang e, in una lunga e appassionata cavalcata, ricca di aneddoti, spunti e citazioni, ci conduce dai primi organismi unicellulari ai nostri primi antenati diretti, arrivando fino all'Homo sapiens. Ci invita così a scoprire ― o a riscoprire ― come il nostro corpo contenga gli stessi elementi chimici formatisi dall'esplosione delle prime stelle e comuni a tutti gli esseri viventi. Riunisce poi le conoscenze più aggiornate di astrofisica e cosmologia, geologia e climatologia, genetica ed ecologia, sociologia ed economia, e ne evidenzia le relazioni, indispensabili per rapportarci in modo equilibrato con la natura. Ci fa comprendere, infine, le connessioni che fanno funzionare il nostro pianeta, superando gli steccati tra discipline per orientare in modo corretto le azioni che possono garantire una vera sostenibilità. Prefazione di Roberto Danovaro, Barbara Gallavotti, Barbara Mazzolai e Telmo Pievani.
 
 - Adrian Fartade: **"La fine del mondo non è mai stata così divertente"**. 9 ottobre 2022, ore 14.45. Palazzo Ducale, Sala degli Staffieri
-  ![foto dell'incontro](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/lucca/IMG_4213.jpeg)
   Solito, grande, intervento di Adrian. Tra risate e commozione, la rassegna delle cause che metteranno fine al nostro pianeta. E comunque sia, anche l'universo è spacciato. L'importante, conclude Adrian, anche se alla fine sarà tutto nero, è fare cose, farle per noi, per l'ora e l'adesso. 
+  ![foto dell'incontro](https://alet313.s3.eu-west-3.amazonaws.com/img/foto/2022/lucca/IMG_4213.jpeg)
 
 - Tommaso Parrinello: **"Quello che i satelliti ci raccontano della terra e del suo futuro"**. 9 ottobre 2022, ore 17.00. Complesso San Francesco, cappella Guinigi
   i satelliti dell'ESA guardano la terra e ci dicono molte cose. 
