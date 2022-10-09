@@ -21,10 +21,9 @@ date : 23-05-2022
 <<<<<<< Updated upstream
 - 2022. Agosto 20-27. IRLANDA
 - [[2022, Settembre 24-25. CORTONA]] - Cortona On The Move
-=======
-- 2022, Agosto 20-27. IRLANDA
 - 2022, Settembre 11. Milano - David La Chapelle; La voce delle ombre
->>>>>>> Stashed changes
+- [[2022, Ottobre 7-9. LUCCA]] - Pianeta Terra Festival
+
 
 ## 2022
 - 2022, Agosto 4. LUCCA - Anniversario uccisione di Don Aldo Mei
