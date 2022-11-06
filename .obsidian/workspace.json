@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52171593de66e112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/pages/diario.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2b3fee05376613a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
