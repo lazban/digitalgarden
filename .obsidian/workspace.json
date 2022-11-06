@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "8dbd2a846c6ec6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a0378b2056cbff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52171593de66e112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/pages/diario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b3fee05376613a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/diario/2022, Ottobre 30 - Novembre 2. LUCCA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bc9ee93d0ae3116",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e069c16be3c29af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b434254d42847a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "020fa8446ab3c70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9bff1edf79ba0c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "11417fae068ddc69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc58c9efc6db9da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/diario/2022, Ottobre 30 - Novembre 2. LUCCA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2b3fee05376613a",
+  "lastOpenFiles": [
+    "_notes/Public/diario/2022, Giugno 5. ROMA.md",
+    "_notes/Public/diario/2022, Ottobre 30 - Novembre 2. LUCCA.md",
+    "_notes/pages/diario.md",
+    "pages/notes.md",
+    "pages/posts.md"
+  ]
+}
