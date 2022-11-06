@@ -1,5 +1,5 @@
 ---
-title: 2022, Ottobre 30 - Novembre 2. LUCCA
+title: 2022, Ottobre 28 - Novembre 1. LUCCA
 notetype : unfeed
 date : 06-11-2022
 ---

@@ -26,7 +26,7 @@ date : 23-05-2022
 
 
 ## 2022
-- [[2022, Ottobre 30 - Novembre 2. LUCCA]] - Lucca Comics and Games 2022
+- [[2022, Ottobre 28 - Novembre 1. LUCCA]] - Lucca Comics and Games 2022
 - 2022, Agosto 4. LUCCA - Anniversario uccisione di Don Aldo Mei
 - 2022, Luglio 30. CASCIO - Sagra delle Crisciolette
 - [[2022, Luglio 4-7. ARLES]] - Les Rencontres d'Arles
